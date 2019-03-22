@@ -1,0 +1,30 @@
+C:\Users\s299128\Desktop\Q1\CompTemplate\bin\Debug\CompTemplate.exe.config
+C:\Users\s299128\Desktop\Q1\CompTemplate\bin\Debug\CompTemplate.exe
+C:\Users\s299128\Desktop\Q1\CompTemplate\bin\Debug\CompTemplate.pdb
+C:\Users\s299128\Desktop\Q1\CompTemplate\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+C:\Users\s299128\Desktop\Q1\CompTemplate\obj\Debug\CompTemplate.Properties.Resources.resources
+C:\Users\s299128\Desktop\Q1\CompTemplate\obj\Debug\CompTemplate.Q1Form.resources
+C:\Users\s299128\Desktop\Q1\CompTemplate\obj\Debug\Q1.csproj.GenerateResource.Cache
+C:\Users\s299128\Desktop\Q1\CompTemplate\obj\Debug\CompTemplate.exe
+C:\Users\s299128\Desktop\Q1\CompTemplate\obj\Debug\CompTemplate.pdb
+E:\Competitive Programming\Nean\CompTemplate\bin\Debug\CompTemplate.exe.config
+E:\Competitive Programming\Nean\CompTemplate\bin\Debug\CompTemplate.exe
+E:\Competitive Programming\Nean\CompTemplate\bin\Debug\CompTemplate.pdb
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\CompTemplate.Properties.Resources.resources
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\CompTemplate.Q1Form.resources
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\Q1.csproj.GenerateResource.cache
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\CompTemplate.exe
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\CompTemplate.pdb
+E:\Competitive Programming\Nean\CompTemplate\obj\Debug\CompTemplate.Q1FormCopy.resources
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\bin\Debug\CompTemplate.exe.config
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\bin\Debug\CompTemplate.exe
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\bin\Debug\CompTemplate.pdb
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\obj\Debug\CompTemplate.Properties.Resources.resources
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\obj\Debug\CompTemplate.Q1Form.resources
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\obj\Debug\Q1.csproj.GenerateResource.cache
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\obj\Debug\CompTemplate.exe
+E:\Competitive Programming\NeanderthalNumber\CompTemplate\obj\Debug\CompTemplate.pdb

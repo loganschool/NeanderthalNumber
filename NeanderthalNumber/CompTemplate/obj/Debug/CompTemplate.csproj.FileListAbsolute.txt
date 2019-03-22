@@ -1,0 +1,19 @@
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\bin\Debug\CompTemplate.exe.config
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\bin\Debug\CompTemplate.exe
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\bin\Debug\CompTemplate.pdb
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\obj\Debug\CompTemplate.csprojAssemblyReference.cache
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\obj\Debug\CompTemplate.Properties.Resources.resources
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\obj\Debug\CompTemplate.TemplateForm.resources
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\obj\Debug\CompTemplate.csproj.GenerateResource.cache
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\obj\Debug\CompTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\obj\Debug\CompTemplate.exe
+C:\Users\Logan\Desktop\CompTemplate\CompTemplate\obj\Debug\CompTemplate.pdb
+D:\Competitive Programming\Q1\CompTemplate\bin\Debug\CompTemplate.exe.config
+D:\Competitive Programming\Q1\CompTemplate\bin\Debug\CompTemplate.exe
+D:\Competitive Programming\Q1\CompTemplate\bin\Debug\CompTemplate.pdb
+D:\Competitive Programming\Q1\CompTemplate\obj\Debug\CompTemplate.csprojResolveAssemblyReference.cache
+D:\Competitive Programming\Q1\CompTemplate\obj\Debug\CompTemplate.Properties.Resources.resources
+D:\Competitive Programming\Q1\CompTemplate\obj\Debug\CompTemplate.TemplateForm.resources
+D:\Competitive Programming\Q1\CompTemplate\obj\Debug\CompTemplate.csproj.GenerateResource.Cache
+D:\Competitive Programming\Q1\CompTemplate\obj\Debug\CompTemplate.exe
+D:\Competitive Programming\Q1\CompTemplate\obj\Debug\CompTemplate.pdb
